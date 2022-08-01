@@ -6,9 +6,9 @@
 
 // Template ID, Device Name and Auth Token are provided by the Blynk.Cloud
 // See the Device Info tab, or Template settings
-#define BLYNK_TEMPLATE_ID           "TMPLVHShteIR"
-#define BLYNK_DEVICE_NAME           "Quickstart Device"
-#define BLYNK_AUTH_TOKEN            "4DPFvnoLtIj2Kg6ufdnuzlpYn-yfIREv"
+#define BLYNK_TEMPLATE_ID          "TMPLVHShteIR"
+#define BLYNK_DEVICE_NAME          "Quickstart Device"
+#define BLYNK_AUTH_TOKEN           "4DPFvnoLtIj2Kg6ufdnuzlpYn-yfIREv"
 
 
 // Comment this out to disable prints and save space
